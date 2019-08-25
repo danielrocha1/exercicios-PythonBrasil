@@ -2,7 +2,7 @@
 """
 Created on Sat Aug 17 05:40:07 2019
 
-@author: Brainiac
+@author: Daniel Rocha
 """
 
 dia = int(input("Entre com o numero correspondente ao dia da semana.(1- domingo, 2- Segunda...):"))
