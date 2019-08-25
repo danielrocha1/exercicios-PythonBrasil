@@ -2,7 +2,7 @@
 """
 Created on Tue Jul 30 22:15:21 2019
 
-@author: Brainiac
+@author: Daniel Rocha
 """
 """
 prim = int(input("Insira o primeiro numero: "))
